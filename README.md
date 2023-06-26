@@ -27,7 +27,7 @@ Before you begin, ensure you have Node.js (version 12.0 or above) installed on y
 
 1. **Clone the Repository**:
 
-   Use `git clone https://github.com/[yourusername]/MovieMania.git` to clone the repository.
+   Use `https://github.com/Abena94/mobie-app-react-redux.git` to clone the repository.
 
 2. **Install Dependencies**:
 
